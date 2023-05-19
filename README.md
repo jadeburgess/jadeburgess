@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**jadeburgess/jadeburgess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am an entry-level software developer with a keen interest in front-end development. I recently graduated from Codespace Academy and completed the Software Development course which has equipped me with the necessary skills and ability to learn new software and languages at a swift rate. My proficiencies include HTML, CSS and Javascript.
 
