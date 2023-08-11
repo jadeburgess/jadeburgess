@@ -1,4 +1,3 @@
 
 
-I am an entry-level software developer with a keen interest in front-end development. I am currently studying at Codespace Academy and working on completing the Software Development course which has equipped me with the necessary skills and ability to learn new software and languages at a swift rate. My proficiencies include HTML, CSS and Javascript.
-
+A software development graduate whose main interest is frontend development, however, I'm in the process of learning Python, as well as understanding the basics of backend. My proficiencies include HTML, CSS, Javacript and React.js
