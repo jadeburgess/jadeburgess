@@ -1,3 +1,2 @@
 
-
-A software development graduate whose main interest is frontend development, however, I'm in the process of learning Python, as well as understanding the basics of backend. My proficiencies include HTML, CSS, Javacript and React.
+A software development graduate whose main interest is frontend development, however, I'm in the process of receiving my AWS Cloud Practitioner certification. My proficiencies include HTML, CSS, Javascript and React.
