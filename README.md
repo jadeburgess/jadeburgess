@@ -1,2 +1,2 @@
 
-Things aren’t always #000000 and #FFFFFF
+If at first you don’t succeed; call it version 1.0
